@@ -3,17 +3,17 @@ Machine Learning and Neural Networks
 
 #### Course Instructors
 
-- Mahmoud Lababidi ([Twitter](https://twitter.com/lababidi) | [LinkedIn](https://www.linkedin.com/in/mahmoudlababidi) | [Github](https://github.com/lababidi))
+- Mahmoud Lababidi ([mlab@jhu.edu](mlab@jhu.edu) | [Twitter](https://twitter.com/lababidi) | [LinkedIn](https://www.linkedin.com/in/mahmoudlababidi) | [Github](https://github.com/lababidi))
 
-#### Exit Ticket
+<!--#### Exit Ticket-->
 
-Please help us improve the class by filling out exit tickets after each lesson.
+<!--Please help us improve the class by filling out exit tickets after each lesson.-->
 
-http://goo.gl/forms/85T0wDN22a
+<!--http://goo.gl/forms/85T0wDN22a-->
 
-#### Homework Submission
+<!--#### Homework Submission-->
 
-http://goo.gl/forms/OvpmnpvOPM
+<!--http://goo.gl/forms/OvpmnpvOPM-->
 
 #### Homework Schedule
 
@@ -42,15 +42,12 @@ http://goo.gl/forms/OvpmnpvOPM
 |              Lesson 15| M | 5/9/2016|Project Presentations|
 |              Lesson 16| W |5/11/2016|Decision Trees, Ensemble Methods, Random Forests|
 |              Lesson 17| M |5/16/2016|Basic NLP, Vectorization, Naive Bayes|
-|              Lesson 18| W |5/18/2016|NLP with NLTK and Spacy|
+|              Lesson 18| W |5/18/2016|NLP methods with NN|
 |              Lesson 19| M |5/23/2016|Intro Unsupervised Methods, PCA, K Means Clustering|
 |              Lesson 20| W |5/25/2016|Project Presentations Day 1|
 |              Lesson 21| W | 6/1/2016|Project Presentations Day 2|
 |              Lesson 22| M | 6/6/2016|mapReduce, spark|
 
-#### [Admin Only] Course Tracker
-
-https://goo.gl/qGC7ku
 
 #### Recommended Textbooks
 
@@ -99,3 +96,14 @@ Wes McKinney, Creator of Pandas
 - [Code Academy](https://www.codecademy.com/learn/python)
 - [Think Python 2](http://greenteapress.com/thinkpython2/html/index.html)
 - [Learn Python the Hard Way](http://learnpythonthehardway.org/book/index.html)
+
+# Contributing
+
+If you'd like to make a contribution to this repository, thank you in advance.
+
+If making changes to a notebook, please do "Kernel > Restart & Run All" or "Kernel > Restart & Clear Output" before submitting.
+
+This ensures that the line/cell numbers don't change (unless you add or remove cells of course) and helps keep the diffs cleaner.
+
+<img src="http://i.imgur.com/FpF0jab.png" height="300px"></img>
+<img src="http://i.imgur.com/QC3hX1D.png" height="300px"></img>
