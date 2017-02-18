@@ -107,3 +107,7 @@ This ensures that the line/cell numbers don't change (unless you add or remove c
 
 <img src="http://i.imgur.com/FpF0jab.png" height="300px"></img>
 <img src="http://i.imgur.com/QC3hX1D.png" height="300px"></img>
+
+# Useful Links
+https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-and-IPython-Notebooks
+https://github.com/ketch/teaching-numerics-with-notebooks/blob/master/Introducing%20the%20IPython%20Notebook.ipynb
