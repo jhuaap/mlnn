@@ -103,3 +103,5 @@ data/release_dates.csv
 data/bikeshare
 
 .idea
+
+.flickrExclusion
