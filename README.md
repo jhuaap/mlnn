@@ -57,7 +57,6 @@ Wes McKinney, Creator of Pandas
 <a href="http://www.amazon.com/Introduction-Statistical-Learning-Applications-Statistics/dp/1461471370"><img height="200px" src="http://ecx.images-amazon.com/images/I/41gFA6VK4uL._SX329_BO1,204,203,200_.jpg" alt="An Introduction to Statistical Learning: with Applications in R"/></a>
 <p>Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani</p>
 </td> -->
-<td></td>
 
 <td align="center">
 <a href="http://www.amazon.com/The-Elements-Statistical-Learning-Prediction/dp/0387848576"><img height="200px" src="http://ecx.images-amazon.com/images/I/410uiMCNntL._SX330_BO1,204,203,200_.jpg" alt="The Elements of Statistical Learning: Data Mining, Inference, and Prediction, Second Edition"/></a>
