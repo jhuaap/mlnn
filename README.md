@@ -6,14 +6,33 @@ Machine Learning and Neural Networks
 - Mahmoud Lababidi (<mlab@jhu.edu> | [Twitter](https://twitter.com/lababidi) | [LinkedIn](https://www.linkedin.com/in/mahmoudlababidi) | [Github](https://github.com/lababidi))
 
 
-#### Recommended Textbooks
+#### Textbooks
+<table>
+<tr>
 
+<td align="center">
+<a href="http://www.amazon.com/Introduction-Statistical-Learning-Applications-Statistics/dp/1461471370"><img height="200px" src="http://ecx.images-amazon.com/images/I/41gFA6VK4uL._SX329_BO1,204,203,200_.jpg" alt="An Introduction to Statistical Learning: with Applications in R"/></a>
+<p>Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani</p>
+</td>
+
+<td align="center">
+<a href="https://github.com/HFTrader/DeepLearningBook/raw/master/DeepLearningBook.pdf">
+<img height="200px" src="https://images-na.ssl-images-amazon.com/images/I/61Z1oazYPbL._SX382_BO1,204,203,200_.jpg" 
+alt="Deep Learning"/></a>
+<p>Ian Goodfellow, Yoshua Bengio, Aaron Courville</p>
+</td>
+
+</tr>
+
+</table>
+
+#### Recommended Textbooks
 <table>
 
 <tr>
 
 <td align="center">
-<a href="http://www.amazon.com/Data-Science-Scratch-Principles-Python/dp/149190142X"><img height="200px" src="http://ecx.images-amazon.com/images/I/51Cf7c2AlpL._SX379_BO1,204,203,200_.jpg" alt="Data Science from Scratch: First Principles with Python"></img></a>
+<a href="http://www.amazon.com/Data-Science-Scratch-Principles-Python/dp/149190142X"><img height="200px" src="http://ecx.images-amazon.com/images/I/51Cf7c2AlpL._SX379_BO1,204,203,200_.jpg" alt="Data Science from Scratch: First Principles with Python"/></a>
 <p>
 Joel Grus, SWE Google
 <br/>
@@ -22,7 +41,7 @@ Joel Grus, SWE Google
 </td>
 
 <td align="center">
-<a href="http://www.amazon.com/Python-Data-Analysis-Wrangling-IPython/dp/1449319793"><img height="200px" src="http://ecx.images-amazon.com/images/I/514byZUF8nL._SX375_BO1,204,203,200_.jpg" alt="Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython"></img></a>
+<a href="http://www.amazon.com/Python-Data-Analysis-Wrangling-IPython/dp/1449319793"><img height="200px" src="http://ecx.images-amazon.com/images/I/514byZUF8nL._SX375_BO1,204,203,200_.jpg" alt="Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython"/></a>
 <p>
 Wes McKinney, Creator of Pandas
 <br/>
@@ -34,13 +53,13 @@ Wes McKinney, Creator of Pandas
 
 <tr>
 
-<td align="center">
-<a href="http://www.amazon.com/Introduction-Statistical-Learning-Applications-Statistics/dp/1461471370"><img height="200px" src="http://ecx.images-amazon.com/images/I/41gFA6VK4uL._SX329_BO1,204,203,200_.jpg" alt="An Introduction to Statistical Learning: with Applications in R"></img></a>
+<!-- <td align="center">
+<a href="http://www.amazon.com/Introduction-Statistical-Learning-Applications-Statistics/dp/1461471370"><img height="200px" src="http://ecx.images-amazon.com/images/I/41gFA6VK4uL._SX329_BO1,204,203,200_.jpg" alt="An Introduction to Statistical Learning: with Applications in R"/></a>
 <p>Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani</p>
-</td>
+</td> -->
 
 <td align="center">
-<a href="http://www.amazon.com/The-Elements-Statistical-Learning-Prediction/dp/0387848576"><img height="200px" src="http://ecx.images-amazon.com/images/I/410uiMCNntL._SX330_BO1,204,203,200_.jpg" alt="The Elements of Statistical Learning: Data Mining, Inference, and Prediction, Second Edition"></img></a>
+<a href="http://www.amazon.com/The-Elements-Statistical-Learning-Prediction/dp/0387848576"><img height="200px" src="http://ecx.images-amazon.com/images/I/410uiMCNntL._SX330_BO1,204,203,200_.jpg" alt="The Elements of Statistical Learning: Data Mining, Inference, and Prediction, Second Edition"/></a>
 <p>Trevor Hastie, Robert Tibshirani, Jerome Friedman</p>
 </td>
 
