@@ -1,4 +1,9 @@
-## Extra
+# Extra
+
+## Git
+
+### Creating a Personal Repository from the Course Repository
+https://help.github.com/articles/duplicating-a-repository/
 
 ### Pretty Terminal
 
