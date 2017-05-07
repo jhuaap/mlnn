@@ -3,8 +3,19 @@
 ## Git
 
 ### Creating a Personal Repository from the Course Repository
+From 
 https://help.github.com/articles/duplicating-a-repository/
 
+Please note to fill in `YOUR_USER_NAME` with your username and `ML_PORTFOLIO_NAME` with your preferred portfolio repository name
+
+```bash
+git clone --bare https://github.com/jhuaap/mlnn.git
+cd mlnn.git
+git push --mirror https://github.com/YOUR_USER_NAME/ML_PORTFOLIO_NAME.git
+cd ..
+rm -rf mlnn.git
+git clone https://github.com/YOUR_USER_NAME/ML_PORTFOLIO_NAME.git
+```
 ### Pretty Terminal
 
 Please only do this if you feel confident. Of course, I'll be available to help if you run into issues but this is pretty outside of the curriciulum!
