@@ -13,6 +13,10 @@ def get_bikeshare_filename(year, quarter, ext):
     filename = "{year}-Q{quarter}-cabi-trip-history-data".format(year=year, quarter=quarter)
     return filename + ext
 
+def download_bikeshare_years(years, data_folder):
+    for year, quarter in get_year_quarter_tuples(years):
+        download_bikeshare_data(year, quarter, data_folder)
+
 def download_bikeshare_data(year, quarter, data_folder):
     """
     Downloads data for a given year and quarter from Capital Bikeshare's Amazon S3 into
