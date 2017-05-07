@@ -6,7 +6,10 @@
 From 
 https://help.github.com/articles/duplicating-a-repository/
 
-Please note to fill in `YOUR_USER_NAME` with your username and `ML_PORTFOLIO_NAME` with your preferred portfolio repository name
+First create a new repository and note the name. This will be `ML_PORTFOLIO_NAME`:
+![Image of new repo](git-new-repo.png)
+
+Please note to fill in `YOUR_USER_NAME` with your github username and `ML_PORTFOLIO_NAME` with your preferred portfolio repository name
 
 ```bash
 git clone --bare https://github.com/jhuaap/mlnn.git
