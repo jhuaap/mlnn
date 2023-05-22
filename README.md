@@ -11,7 +11,9 @@ Machine Learning and Neural Networks
 <tr>
 
 <td align="center">
-<a href="http://www.amazon.com/Introduction-Statistical-Learning-Applications-Statistics/dp/1461471370"><img height="200px" src="http://ecx.images-amazon.com/images/I/41gFA6VK4uL._SX329_BO1,204,203,200_.jpg" alt="An Introduction to Statistical Learning: with Applications in R"/></a>
+<a href="https://hastie.su.domains/ISLR2/ISLRv2_website.pdf">
+ <img height="200px" src="http://ecx.images-amazon.com/images/I/41gFA6VK4uL._SX329_BO1,204,203,200_.jpg" alt="An Introduction to Statistical Learning: with Applications in R"/>
+</a>
 <p>Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani</p>
 </td>
 
